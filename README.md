@@ -8,3 +8,7 @@
  * boolean
  * null
  * Symbol 
+
+## Data types
+  * typeof operator
+  * Object
