@@ -1,0 +1,31 @@
+ROAD MAP JAVASCRIPT
+
+Variáveis:
+ - declaração de variável (var, ler, const)
+ - Hoisting
+ - Regras na nomeação de variáveis
+ - Escopo
+
+Tipos de dados:
+ - Tipos primitido 
+ - Objeto (built-in objects)
+ - typeof operator
+
+Type casting:
+ - Explicit type casting
+ - Implicit type casting
+
+Estrutura de dados:
+ - Indexed collections (typed arrays, arrays)
+ - Dados estruturados (json)
+ - Keyed Collections
+ 
+Comparação de igualdade:
+ - (==, ===, Object.is)
+ - Equality algorithms(isLooselyEqual, isStrictlyEqual, SameValueZero, SameValue)
+
+
+Loops and iterations:
+ - for statement
+ - do...while statemente
+ - 
